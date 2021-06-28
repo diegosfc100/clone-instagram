@@ -75,3 +75,23 @@ body{
 .profile-photo img{
     height: 8rem;
 }
+
+.login{
+    background-color: #0095f6;
+    color: #fff;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.logout{
+    color:#0095f6;
+    margin-top: 1rem;        
+}
+
+.not-account{
+    color:rgb(160,160,160);
+}
+
+.link-blue{
+    color:#0095f6;
+}
