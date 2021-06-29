@@ -53,7 +53,7 @@ body{
     background-color: #fff;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgray
+    border: 1px solid lightgray;
 }
 
 .group:nth-child(2){
@@ -73,7 +73,7 @@ body{
 }
 
 .profile-photo img{
-    height: 8rem;
+    height: 6rem;
 }
 
 .login{
@@ -127,3 +127,31 @@ body{
     background-image: url(/assets/img/googleplay-button.png);
 }
 
+
+@media(max-width:1024px){
+    .instagram-wrapper{
+        width: 90%;
+    }
+}
+
+@media(max-width: 650px){
+    body{
+        background-color: #fff;
+    }
+
+    .instagram-wrapper{
+        width: 90%;
+    }
+
+    .phone{
+        display: none;
+    }
+
+    .continue{
+        width: 100%;
+    }
+
+    .group{
+        border: 1px solid transparent;
+    }
+}
