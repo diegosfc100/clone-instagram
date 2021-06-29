@@ -15,9 +15,7 @@
 
 **Screenshot do projeto:**
 ![screenInstagram](/assets/img/print.png)
-<h1 align="center">
-    <img alt="Contact-us" title="#Contact-us" src="/assets/img/print.png" />
-</h1>
 
-<p align="center"> Desenvolvido com ❤ por Diego Rodrigues. </p>
+
+<p align="left"> Desenvolvido com ❤ por Diego Rodrigues. </p>
 
